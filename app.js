@@ -21,3 +21,32 @@ console.log(4+5);
  const subtotal = guests *unitPrice;
  console.log(guests);
  console.log(subtotal);
+ 
+ //practice
+ let bugas = 20;
+ let sardinas = 5;
+ const perkilo = 58;
+ const tagpila = 25;
+ let total = bugas *perkilo;
+ console.log(bugas *perkilo);
+ console.log(sardinas *tagpila);
+ 
+ 
+ const tour ="Heritage Walk";
+ const Guests = 3;
+ const available = true;
+ console.log(typeof tour);
+ console.log(typeof Guests);
+ console.log(typeof available);
+ 
+ let guideName;
+ const selectedTour = null;
+ console.log(guideName);
+ console.log(selectedTour);
+  console.log(typeof guideName);
+  
+  const guestText = "3";
+  console.log(guestText + 1);
+  const guest = Number(guestText);
+  console.log(guest + 1);
+  console.log(Number("three"));
